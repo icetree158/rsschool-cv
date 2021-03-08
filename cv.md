@@ -33,6 +33,3 @@
 * BSUIR | C++
 ### English ###
 >My English level is B1. I rarely use English in my everyday life
-
-
-
